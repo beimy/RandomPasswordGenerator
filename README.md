@@ -15,4 +15,4 @@ I struggled for a bit with coming up with a way to randomly choose an element fr
 
 After that it was just a matter of populating a new array with our randomly choosen elements from our frankenstiened character array and we were done!
 
-![alt text](/Develop/passwordGen.PNG)
+![alt text](/Develop/passwordGen.PNG) 
